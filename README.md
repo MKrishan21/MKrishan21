@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krishna Misra
+- 👋 Hi, I’m Krishan Gopal Misra
 - 👀 I’m interested in solving problems through code.
 - 🌱 I’m currently learning C++ and Java.
 
