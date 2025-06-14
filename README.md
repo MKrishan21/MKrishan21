@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kajla Sanamdeep</h1>
+<h1 align="center">Hi 👋, I'm Krishan Gopal Misra</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> 
@@ -7,21 +7,21 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kajlasanamdeep" alt="kajlasanamdeep" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MKrishan21" alt="krishan" />
   </a> 
 </p>
 
 - 🌱 I’m currently learning **Next.js**  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS**  
-- 📫 How to reach me **kajlasanamdeep@gmail.com**  
+- 📫 How to reach me **kgmishra21@gmail.com**  
 - ⚡ Fun fact: **I'm always excited to help fellow developers and learn something new every day!**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sanamdeep-kajla-58525b22b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanamdeep-kajla-58525b22b" height="30" width="40" />
+  <a href="https://linkedin.com/in/krishangopalmisra021" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan" height="30" width="40" />
   </a>
 </p>
 
