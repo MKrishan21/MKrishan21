@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kajlasanamdeep&label=Profile%20views&color=0e75b6&style=flat" alt="kajlasanamdeep" />
+  <img src="https://komarev.com/ghpvc/?username=MKrishan21&label=Profile%20views&color=0e75b6&style=flat" alt="krishan" />
 </p>
 
 <p align="left"> 
@@ -60,8 +60,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajlasanamdeep&show_icons=true&locale=en&layout=compact" alt="kajlasanamdeep" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKrishan21&show_icons=true&locale=en&layout=compact" alt="MKrishan21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajlasanamdeep&show_icons=true&locale=en" alt="kajlasanamdeep" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MKrishan21&show_icons=true&locale=en" alt="MKrishan21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajlasanamdeep&" alt="kajlasanamdeep" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MKrishan21&" alt="MKrishan21" /></p>
